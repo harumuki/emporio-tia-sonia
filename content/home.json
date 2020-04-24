@@ -1,29 +1,23 @@
 {
-  "meta_title": "",
-  "meta_description": "",
+  "meta_title": "Tia Sônia - Faz bem mais feliz!",
+  "meta_description": "Alimentos Tia Sônia. Para um mundo com fome de viver, somos alimento pro corpo e pra alma. Faz bem mais feliz! ",
   "sections": [
     {
       "type": "banner-slider",
       "autoplay": 9000,
       "slides": [
         {
-          "img": "/img/uploads/rect89.webp",
-          "link": "/headset",
-          "alt": "Headset banner",
+          "img": "/img/uploads/3x-semjuros.png",
+          "link": "/search",
+          "alt": "Frete Gratis",
           "start": "2020-04-11T05:54:06.750Z",
           "end": "2020-12-31T03:00:00.000Z"
-        },
-        {
-          "img": "/img/uploads/banner2.webp",
-          "alt": "Banner sample two",
-          "start": "",
-          "end": ""
         }
       ]
     },
     {
       "type": "info-bar",
-      "enabled": true
+      "enabled": false
     },
     {
       "type": "collection-shelf",
