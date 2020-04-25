@@ -1,13 +1,13 @@
 {
   "marketing_stripe": {
-    "text": "Aproveite nossos descontos de até 40%!",
-    "link": "/promotion"
+    "text": "ATÉ 3X SEM JUROS 🚚 FRETE GRÁTIS ACIMA DE R$ 150",
+    "link": ""
   },
   "contacts_stripe": {
     "pages": [
       {
-        "title": "Sobre nós",
-        "link": "/pages/sobre-nos"
+        "title": "Fale Conosco",
+        "link": "pages/contato"
       },
       {
         "title": "Esta loja é um PWA",
@@ -19,7 +19,7 @@
   },
   "categories_list": {
     "featured": [],
-    "random": 6
+    "random": 0
   },
   "search_input": true
 }
