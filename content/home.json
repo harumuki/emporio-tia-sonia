@@ -29,6 +29,15 @@
       "type": "collection-shelf",
       "shuffle": true,
       "collection_id": "5d09311d24607a6a42d714ca"
+    },
+    {
+      "type": "custom-html",
+      "html": "<div class=\"ml-form-embed\"  data-account=\"1184030:r4h1t6y8d5\"  data-form=\"1703292:y6j4v6\"></div>"
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/tstorytiasonia.jpg",
+      "alt": "História de Tia Sônia"
     }
   ]
 }
