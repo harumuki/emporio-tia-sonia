@@ -1,15 +1,15 @@
 {
   "sort_categories": [
-      "snacks",
-      "integrais",
-      "cookies",
-      "funcionais",
-      "pastas-tia-sonia",
-      "barras",
-      "linha-gourmet",
-      "granola-tia-sonia",
-      "kits-tia-sonia"
-    ],
+    "kits-tia-sonia",
+    "granola-tia-sonia",
+    "snacks",
+    "integrais",
+    "cookies",
+    "funcionais",
+    "pastas-tia-sonia",
+    "barras",
+    "linha-gourmet"
+  ],
   "phone_wpp": true,
   "socials": true
 }
