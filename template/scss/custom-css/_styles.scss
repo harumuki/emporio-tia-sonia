@@ -6,7 +6,8 @@ font-family: 'Open Sans', sans-serif;
 // header
 #header {
   background-color: #fff !important;
-  box-shadow: 0 .5rem 1rem rgba(0,0,0,.15)!important
+  box-shadow: 0 .5rem 1rem rgba(0,0,0,.15)!important;
+  border-width: 0px;
 }
 .top-bar__page-links {
     font-size: .9rem;
@@ -45,6 +46,12 @@ font-family: 'Open Sans', sans-serif;
   font-weight:700;
   background:#CC6224 !important;
 }
+.top-bar {
+  position: sticky;
+  z-index: 2000;
+  width: 100%;
+  top: 0;
+}
 .top-bar__nav, .top-bar {
   background: #fff;
 }
@@ -57,11 +64,21 @@ font-family: 'Open Sans', sans-serif;
   font-size: 0.7rem;
   font-weight:500
 }
+#header {
+  top: 3.4%
+}
 }
 // main
+@media screen and (min-width: 998px) {
+  .banner-slider {
+    margin-bottom: 5rem;
+  }
+  #header {
+    top: 9%
+  }
+}
 .banner-slider {
   max-width: 100%;
-  margin-bottom: 5rem;
 }
 //fonte title colecoes
 .products-carousel__title {font-size: 1rem;}
@@ -146,6 +163,15 @@ font-family: 'Open Sans', sans-serif;
     width: 150px;
     height: 30px;
     margin-left: 25.5%;
+  }
+  #header {
+    top: 6%
+  }
+}
+@media screen and (max-width: 480px) {
+  .product-card.search-engine__item .product-card__buy {
+    position: relative !important;
+    margin-left: 34%;
   }
 }
 
