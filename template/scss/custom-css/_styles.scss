@@ -16,6 +16,9 @@ font-family: 'Open Sans', sans-serif;
     font-size: .9rem;
     font-weight: 500;
 }
+.header__container.container-fluid {
+  padding: .7rem 1rem 1rem;
+}
 // menu
 #menu .menu__list span, .header__toggler span, .menu__item span {
   text-transform: uppercase !important;
@@ -187,9 +190,6 @@ font-family: 'Open Sans', sans-serif;
   .product-card.search-engine__item .product-card__buy {
     position: relative !important;
     margin-left: 32%;
-  }
-  .header__container.container-fluid {
-    padding-top: .3rem;
   }
   //botao add carrinho
   .products-carousel .product-card__buy .btn-primary {
