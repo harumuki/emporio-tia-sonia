@@ -8,6 +8,9 @@ font-family: 'Open Sans', sans-serif;
   background-color: #fff !important;
   box-shadow: 0 .5rem 1rem rgba(0,0,0,.15)!important;
   border-width: 0px;
+  padding-top: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
 }
 .top-bar__page-links {
     font-size: .9rem;
@@ -60,21 +63,15 @@ font-family: 'Open Sans', sans-serif;
 }
 // topo mobile
 @media screen and (max-width: 480px) {
-.top-bar__countdown {
-  font-size: 0.7rem;
-  font-weight:500
-}
-#header {
-  top: 3.4%
-}
+  .top-bar__countdown {
+    font-size: 0.7rem;
+    font-weight:500
+  }
 }
 // main
 @media screen and (min-width: 998px) {
   .banner-slider {
     margin-bottom: 5rem;
-  }
-  #header {
-    top: 7%
   }
 }
 .banner-slider {
@@ -151,64 +148,62 @@ font-family: 'Open Sans', sans-serif;
 .product-card__buy.fade {
   opacity: 1 !important;
 }
+.products-carousel .product-card span {
+  text-align: center;
+}
+.products-carousel .product-card__buy {
+  display: flex;
+  justify-content: center;
+}
+// apenas desktop
 @media (min-width: 998px) {
-  .product-card__buy .btn-primary{
+  //botao add carrinho
+  .products-carousel .product-card__buy .btn-primary{
     width: 150px;
     height: 30px;
-    margin-left: 17.5%;
+  }
+  .product-card.search-engine__item .product-card__buy {
+    bottom: 0px;
+    position: relative !important;
+    margin-left: 37%;
   }
 }
+// apenas tablet
 @media screen and (min-width: 481px) and (max-width: 997px) {
-  .product-card__buy .btn-primary{
+  //botao add carrinho
+  .products-carousel .product-card__buy .btn-primary{
     width: 150px;
     height: 30px;
-    margin-left: 25.5%;
   }
-  #header {
-    top: 6%
-  }
-}
-@media screen and (max-width: 480px) {
   .product-card.search-engine__item .product-card__buy {
     position: relative !important;
-    margin-left: 34%;
+    margin-left: 33%;
+    bottom: 0px
   }
 }
-
-.product-card__buy .btn-primary {
-    line-height: 0px;
-    font-size: 0.8rem;
-    background-color: #162567;
-    border-color: #162567;
-}
-//botao add carrinho
-@media (min-width: 998px) {
-  .product-card__buy .btn-primary{
-    width: 150px;
-    height: 30px;
-    margin-left: 17.5%;
-  }
-}
-@media screen and (min-width: 481px) and (max-width: 997px) {
-  .product-card__buy .btn-primary{
-    width: 150px;
-    height: 30px;
-    margin-left: 25.5%;
-  }
-}
-
-.product-card__buy .btn-primary {
-    line-height: 0px;
-    font-size: 0.8rem;
-    background-color: #162567;
-    border-color: #162567;
-}
-
+// apenas mobile
 @media screen and (max-width: 480px) {
-  .product-card__buy .btn-primary {
+  //botao add carrinho pesquisa
+  .product-card.search-engine__item .product-card__buy {
+    position: relative !important;
+    margin-left: 32%;
+  }
+  .header__container.container-fluid {
+    padding-top: .3rem;
+  }
+  //botao add carrinho
+  .products-carousel .product-card__buy .btn-primary {
     font-size: 0.7rem
   }
 }
+// cor botao comprar
+.product-card__buy .btn-primary {
+    line-height: 0px;
+    font-size: 0.8rem;
+    background-color: #162567;
+    border-color: #162567;
+}
+
 //margem preco botao
 .product-card__prices {
     height: 2.95rem !important;
