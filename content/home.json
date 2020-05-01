@@ -19,7 +19,7 @@
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "collection_id": "5df7de8b5cdf932a9836cbac"
+      "collection_id": "5dfb92855cdf932a9836d9ac"
     },
     {
       "type": "collection-shelf",
@@ -38,7 +38,8 @@
     {
       "type": "responsive-banner",
       "img": "/img/uploads/tstorytiasonia.jpg",
-      "alt": "História de Tia Sônia"
+      "alt": "História de Tia Sônia",
+      "link": "http://www.tiasonia.com.br/pt-br/sobre"
     }
   ]
 }
