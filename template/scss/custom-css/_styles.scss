@@ -1,7 +1,7 @@
 // Add your custom CSS here.
 // font style
 body {
-font-family: 'Open Sans', sans-serif;
+  font-family: 'Open Sans', sans-serif;
 }
 // header
 #header {
@@ -12,12 +12,13 @@ font-family: 'Open Sans', sans-serif;
   padding-left: 0px;
   padding-right: 0px;
 }
-.top-bar__page-links {
-    font-size: .9rem;
-    font-weight: 500;
+.header__row {
+  padding-left: 15px;
+  padding-right: 15px;
 }
-.header__container.container-fluid {
-  padding: .7rem 1rem 1rem;
+.top-bar__page-links {
+  font-size: .9rem;
+  font-weight: 500;
 }
 // menu
 #menu .menu__list span, .header__toggler span, .menu__item span {
@@ -52,17 +53,8 @@ font-family: 'Open Sans', sans-serif;
   font-weight:700;
   background:#CC6224 !important;
 }
-.top-bar {
-  position: sticky;
-  z-index: 2000;
-  width: 100%;
-  top: 0;
-}
 .top-bar__nav, .top-bar {
   background: #fff;
-}
-.top-bar__nav {
-  border-bottom: 1px dashed #D9D9D9
 }
 .minicart__btn-checkout.btn, .cart__info .cart__btn-checkout {
   font-size: 0px;
@@ -78,24 +70,12 @@ font-family: 'Open Sans', sans-serif;
     font-size: 0.7rem;
     font-weight:500
   }
-  .banner-slider {
-    margin-bottom: 80%;
-  }
   .custom-html + div.responsive-baner {
     margin-bottom: 2rem !important;
   }
   #cart-quickview .minicart__aside {
     margin-top: 1rem;
   }
-}
-// main
-@media screen and (min-width: 998px) {
-  .banner-slider {
-    margin-bottom: 0;
-  }
-}
-.banner-slider {
-  max-width: 100%;
 }
 //fonte title colecoes
 .products-carousel__title {font-size: 1rem;}
