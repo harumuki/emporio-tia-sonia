@@ -70,6 +70,15 @@ font-family: 'Open Sans', sans-serif;
     font-size: 0.7rem;
     font-weight:500
   }
+  .banner-slider {
+    margin-bottom: 18rem;
+  }
+  .custom-html + div.responsive-baner {
+    margin-bottom: 2rem !important;
+  }
+  #cart-quickview .minicart__aside {
+    margin-top: 1rem;
+  }
 }
 // main
 @media screen and (min-width: 998px) {
@@ -238,6 +247,10 @@ h1 {
 //tam img checkout
 .summary__item img {
   width: 50px;
+}
+// hide trustvox star
+.products-carousel .ts-shelf-container {
+  display: none;
 }
 
 //botão cancelar
