@@ -1,22 +1,22 @@
 {
-  "store_id": 1024,
-  "name": "Empório Tia Sônia",
   "domain": "emporio-tia-sonia.netlify.app",
-  "short_name": "Tia Sônia",
-  "description": "Para um mundo com fome de viver, somos alimento  pro corpo e pra alma. Comida que realmente nutre, alimenta, revigora, acalenta, com sabor de saúde e carinho que faz a gente se sentir em casa, onde a gente estiver.",
+  "currency_symbol": "R$",
   "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
   "theme": {
     "bootswatch": "_"
   },
+  "bg_color": "#ffffff",
   "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "name": "Tia Sônia",
+  "short_name": "Tia Sônia",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
-  "country_code": "BR"
+  "mini_logo": "",
+  "favicon": "/img/uploads/favicon.png",
+  "country_code": "BR",
+  "secondary_color": "#393e46",
+  "icon": "/img/icon.png",
+  "store_id": 1024,
+  "description": "Para um mundo com fome de viver, somos alimento  pro corpo e pra alma. Comida que realmente nutre, alimenta, revigora, acalenta, com sabor de saúde e carinho que faz a gente se sentir em casa, onde a gente estiver.",
+  "large_icon": "/img/large-icon.png"
 }
