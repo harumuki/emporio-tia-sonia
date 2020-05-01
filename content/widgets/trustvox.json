@@ -6,6 +6,7 @@
   "options": {
     "trustvoxStoreId": "85317"
   },
+  "bodyAppend": "src/append/body",
   "productBlockAppend": "src/append/product-block",
   "productCardSlots": "src/append/product-card-slots",
   "productSlots": "src/append/product-slots",
