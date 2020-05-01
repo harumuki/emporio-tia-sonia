@@ -64,6 +64,14 @@ font-family: 'Open Sans', sans-serif;
 .top-bar__nav {
   border-bottom: 1px dashed #D9D9D9
 }
+.minicart__btn-checkout.btn {
+  font-size: 0px;
+}
+.minicart__btn-checkout.btn::after, .minicart__btn-checkout.btn svg {
+  font-size: 1rem !important;
+  content: 'Finalizar compra';
+  margin-left: .2rem;
+}
 // topo mobile
 @media screen and (max-width: 480px) {
   .top-bar__countdown {
@@ -83,7 +91,7 @@ font-family: 'Open Sans', sans-serif;
 // main
 @media screen and (min-width: 998px) {
   .banner-slider {
-    margin-bottom: 5rem;
+    margin-bottom: 10%;
   }
 }
 .banner-slider {
