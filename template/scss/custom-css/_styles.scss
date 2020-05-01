@@ -267,3 +267,9 @@ h1 {
 .product__buy button {
     padding: .5rem 4rem;
 }
+
+//margem topo banner
+@media screen and (min-width: 998px)
+.banner-slider {
+    margin-bottom: 0px;
+}
