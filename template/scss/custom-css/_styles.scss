@@ -182,12 +182,12 @@ body {
   }
 }
 // apenas mobile
-@media screen and (max-width: 480px) {
+/*@media screen and (max-width: 480px) {
   //botao add carrinho pesquisa
   .product-card.search-engine__item .product-card__buy {
     position: relative !important;
     margin-left: 32%;
-  }
+  }*/
   //botao add carrinho
   .products-carousel .product-card__buy .btn-primary {
     font-size: 0.7rem
