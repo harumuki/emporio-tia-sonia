@@ -26,14 +26,6 @@
       "alt": "Secure connection"
     },
     {
-      "src": "/img/uploads/tiasonia-produto-organico-1-.png",
-      "alt": "Produto Orgânico"
-    },
-    {
-      "src": "/img/uploads/selo-vegano.png",
-      "alt": "Produto Vegano"
-    },
-    {
       "src": "/img/uploads/GoogleSafeBrowsing.png",
       "alt": "Google Safe Browsing",
       "link": "http://www.google.com/safebrowsing/diagnostic?site=www.emporiotiasonia.com.br"
@@ -42,6 +34,14 @@
       "src": "/img/uploads/NortonSafeWeb.png",
       "alt": "Norton Secure",
       "link": "https://safeweb.norton.com/report/show?url=www.emporiotiasonia.com.br"
+    },
+    {
+      "src": "/img/uploads/tiasonia-produto-organico-1-.png",
+      "alt": "Produto Orgânico"
+    },
+    {
+      "src": "/img/uploads/2selo-vegano.png",
+      "alt": "Produto Vegano"
     },
     {
       "src": "/img/uploads/eu-reciclo-1.png",
