@@ -155,8 +155,17 @@ body {
   display: flex;
   justify-content: center;
 }
-// apenas desktop
-@media (min-width: 998px) {
+// desktop acima de 14 polegadas
+@media  screen and (min-width: 1368px) {
+
+}
+
+//desktop normal size
+@media  screen and (min-width: 998px) and (max-width: 1367px) {
+  //slider full
+  .banner-slider {
+    max-width: 100%;
+  }
   //botao add carrinho
   .products-carousel .product-card__buy .btn-primary{
     width: 150px;
@@ -183,16 +192,16 @@ body {
 }
 // apenas mobile
 @media screen and (max-width: 480px) {
-  //botao add carrinho pesquisa
-  .product-card.search-engine__item .product-card__buy {
-    //position: relative !important;
-    //margin-left: 32%;
-  }
   //botao add carrinho
   .products-carousel .product-card__buy .btn-primary {
     font-size: 0.7rem
   }
+  .header__container.container-fluid {
+    margin-top: .3rem;
+  }
 }
+
+
 // cor botao comprar
 .product-card__buy .btn-primary {
     line-height: 0px;
