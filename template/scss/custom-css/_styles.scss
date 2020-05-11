@@ -51,7 +51,7 @@ body {
 .top-bar__countdown {
   font-size: 0.8rem;
   font-weight:700;
-  background:#B20D81 !important;
+  //background:#B20D81 !important;
 }
 .top-bar__nav, .top-bar {
   background: #fff;
@@ -134,7 +134,7 @@ body {
 }
 // FRETE CALCULO
 .shipping-calculator__services::before {
-  content: 'FRETE GRÁTIS ACIMA DE R$200 \A FRETE R$9,99 ACIMA R$100';
+  content: 'FRETE GRÁTIS ACIMA DE R$150 \A FRETE R$9,99 ACIMA R$100';
   white-space: pre; /* or pre-wrap */
   font-weight: bold;
   font-size: 13px;
