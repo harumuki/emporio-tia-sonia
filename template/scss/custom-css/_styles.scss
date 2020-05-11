@@ -1,4 +1,12 @@
 // Add your custom CSS here.
+
+//contudown
+.top-bar__countdown {
+  font-size: 0.8rem;
+  font-weight:700;
+  background:#3b88bf !important;
+}
+
 // font style
 body {
   font-family: 'Open Sans', sans-serif;
@@ -51,7 +59,7 @@ body {
 .top-bar__countdown {
   font-size: 0.8rem;
   font-weight:700;
-  //background:#B20D81 !important;
+  background:#3b88bf !important;
 }
 .top-bar__nav, .top-bar {
   background: #fff;
