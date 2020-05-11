@@ -8,10 +8,11 @@
       "slides": [
         {
           "start": "",
-          "end": "",
+          "end": "2020-05-11T12:19:27.669Z",
           "img": "/img/uploads/bannerfullpadrao.png",
           "link": "https://www.emporiotiasonia.com.br/granola-tia-sonia",
-          "alt": "Granolas"
+          "alt": "Granolas",
+          "mobile_img": "/img/uploads/bannerfullpadrao.png"
         }
       ]
     },
