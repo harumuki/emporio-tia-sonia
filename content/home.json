@@ -5,16 +5,7 @@
     {
       "type": "banner-slider",
       "autoplay": 9000,
-      "slides": [
-        {
-          "img": "/img/uploads/07-01-banner-maes-frete-gratis-1-.jpg",
-          "link": "/search",
-          "alt": "Semana das Mães - Tia Sônia",
-          "start": "2020-04-11T05:54:06.750Z",
-          "end": "2020-05-11T03:02:00.000Z",
-          "mobile_img": "/img/uploads/07-03-feed-maes-frete-gratis-2-.jpg"
-        }
-      ]
+      "slides": []
     },
     {
       "type": "collection-shelf",
