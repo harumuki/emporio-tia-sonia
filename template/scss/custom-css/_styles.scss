@@ -141,7 +141,7 @@ body {
   color: #666 !important;
 }
 // FRETE CALCULO
-.shipping-calculator__services::before {
+.shipping-calculator__services::after {
   content: 'FRETE GRÁTIS ACIMA DE R$150 \A FRETE R$9,99 ACIMA R$100';
   white-space: pre; /* or pre-wrap */
   font-weight: bold;
