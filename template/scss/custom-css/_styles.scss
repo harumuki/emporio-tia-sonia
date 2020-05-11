@@ -142,10 +142,10 @@ body {
 }
 // FRETE CALCULO
 .shipping-calculator__services::after {
-  content: 'FRETE GRÁTIS ACIMA DE R$150 \A FRETE R$9,99 ACIMA R$100';
+  content: 'Ganhe o FRETE GRÁTIS em compras de R$150 \A *Por tempo limitado.';
   white-space: pre; /* or pre-wrap */
-  font-weight: bold;
-  font-size: 13px;
+  font-weight: 500;
+  font-size: 10px;
   color: #333;
 }
 //botao comprar
