@@ -27,6 +27,30 @@
       {
         "text": "Chocolate",
         "url": "https://www.emporiotiasonia.com.br/chocolate"
+      },
+      {
+        "text": "Light",
+        "url": "https://www.emporiotiasonia.com.br/light"
+      },
+      {
+        "text": "Orgânica",
+        "url": "https://www.emporiotiasonia.com.br/organica"
+      },
+      {
+        "url": "https://www.emporiotiasonia.com.br/premium",
+        "text": "Premium"
+      },
+      {
+        "text": "Sem Glúten",
+        "url": "https://www.emporiotiasonia.com.br/sem-gluten"
+      },
+      {
+        "text": "X-Pin",
+        "url": "https://www.emporiotiasonia.com.br/x-pin"
+      },
+      {
+        "url": "https://www.emporiotiasonia.com.br/mix-gourmet",
+        "text": "Mix Gourmet"
       }
     ]
   },
