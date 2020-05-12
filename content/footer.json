@@ -31,22 +31,30 @@
       "link": "http://www.google.com/safebrowsing/diagnostic?site=www.emporiotiasonia.com.br"
     },
     {
-      "src": "/img/uploads/NortonSafeWeb.png",
+      "src": "",
       "alt": "Norton Secure",
       "link": "https://safeweb.norton.com/report/show?url=www.emporiotiasonia.com.br"
     },
     {
-      "src": "/img/uploads/tiasonia-produto-organico-1-.png",
+      "src": "/img/uploads/organico-120-80.png",
       "alt": "Produto Orgânico"
     },
     {
-      "src": "/img/uploads/2selo-vegano.png",
+      "src": "/img/uploads/vegano-120-80.png",
       "alt": "Produto Vegano"
     },
     {
-      "src": "/img/uploads/eu-reciclo-1.png",
+      "src": "/img/uploads/eu-reciclo-120-80.png",
       "link": "https://legacy.eureciclo.com.br/sobre-nos",
       "alt": "Selo Tia Sônia Eureciclo"
+    },
+    {
+      "src": "/img/uploads/ibd-120-80.png",
+      "alt": "Certificado Orgânico IBD"
+    },
+    {
+      "src": "/img/uploads/usda-120-80.png",
+      "alt": "USDA Organic"
     }
   ],
   "payment_methods": {
