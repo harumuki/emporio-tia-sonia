@@ -26,16 +26,6 @@
       "alt": "Secure connection"
     },
     {
-      "src": "/img/uploads/GoogleSafeBrowsing.png",
-      "alt": "Google Safe Browsing",
-      "link": "http://www.google.com/safebrowsing/diagnostic?site=www.emporiotiasonia.com.br"
-    },
-    {
-      "src": "",
-      "alt": "Norton Secure",
-      "link": "https://safeweb.norton.com/report/show?url=www.emporiotiasonia.com.br"
-    },
-    {
       "src": "/img/uploads/organico-120-80.png",
       "alt": "Produto Orgânico"
     },
@@ -45,7 +35,7 @@
     },
     {
       "src": "/img/uploads/eu-reciclo-120-80.png",
-      "link": "https://legacy.eureciclo.com.br/sobre-nos",
+      "link": "",
       "alt": "Selo Tia Sônia Eureciclo"
     },
     {
