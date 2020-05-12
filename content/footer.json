@@ -10,8 +10,25 @@
   },
   "links_2": {
     "list_categories": false,
-    "title": "",
-    "list": []
+    "title": "Granolas Tia Sônia",
+    "list": [
+      {
+        "text": "Tradicional",
+        "url": "https://www.emporiotiasonia.com.br/tradicional"
+      },
+      {
+        "text": "Low Carb",
+        "url": "https://www.emporiotiasonia.com.br/low-carb"
+      },
+      {
+        "text": "Castanha do Pará",
+        "url": "https://www.emporiotiasonia.com.br/castanha-do-para"
+      },
+      {
+        "text": "Chocolate",
+        "url": "https://www.emporiotiasonia.com.br/chocolate"
+      }
+    ]
   },
   "contacts": {
     "title": "Contatos",
