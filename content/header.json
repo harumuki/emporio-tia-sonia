@@ -11,15 +11,10 @@
       }
     ],
     "phone_wpp": true,
-    "socials": false
+    "socials": true
   },
   "categories_list": {
-    "featured": [
-      "/granola-tia-sonia?Granolas",
-      "/low-carb?Low Carb",
-      "/organica?Orgânica",
-      "/premium?Premium"
-    ],
+    "featured": [],
     "random": 0
   },
   "search_input": true
