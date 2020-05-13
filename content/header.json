@@ -1,6 +1,6 @@
 {
   "marketing_stripe": {
-    "text": "FRETE GRÁTIS BRASIL 📦 ACIMA R$ 150",
+    "text": "🔔 FRETE GRÁTIS BRASIL 📦 ACIMA R$ 150",
     "link": ""
   },
   "contacts_stripe": {
@@ -11,7 +11,7 @@
       }
     ],
     "phone_wpp": true,
-    "socials": true
+    "socials": false
   },
   "categories_list": {
     "featured": [],
