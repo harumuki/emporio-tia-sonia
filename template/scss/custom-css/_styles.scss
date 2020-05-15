@@ -179,11 +179,6 @@ body {
     width: 150px;
     height: 30px;
   }
-  .product-card.search-engine__item .product-card__buy {
-    bottom: 0px;
-    position: relative !important;
-    margin-left: 37%;
-  }
 }
 // apenas tablet
 @media screen and (min-width: 481px) and (max-width: 997px) {
@@ -191,11 +186,6 @@ body {
   .products-carousel .product-card__buy .btn-primary{
     width: 150px;
     height: 30px;
-  }
-  .product-card.search-engine__item .product-card__buy {
-    position: relative !important;
-    margin-left: 33%;
-    bottom: 0px
   }
 }
 // apenas mobile
