@@ -18,7 +18,7 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": true,
+      "shuffle": false,
       "collection_id": "5deaa397cea1b26d087dc20a",
       "title": "Os mais Pedidos ❤"
     },
