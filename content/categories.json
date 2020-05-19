@@ -1,6 +1,17 @@
 {
   "sections": [
     {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "slides": [
+        {
+          "start": "2020-05-20T02:59:00.000Z",
+          "end": "",
+          "img": "/img/uploads/festival-site.webp"
+        }
+      ]
+    },
+    {
       "type": "breadcrumbs",
       "enabled": true
     },
