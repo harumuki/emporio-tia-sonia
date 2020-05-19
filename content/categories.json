@@ -7,7 +7,9 @@
         {
           "start": "2020-05-20T02:59:00.000Z",
           "end": "",
-          "img": "/img/uploads/festival-site.webp"
+          "img": "/img/uploads/festival-site.webp",
+          "link": "https://www.emporiotiasonia.com.br/granola-tia-sonia",
+          "alt": "Granolas"
         }
       ]
     },
