@@ -14,7 +14,13 @@
     "socials": false
   },
   "categories_list": {
-    "featured": [],
+    "featured": [
+      "/granola-tia-sonia?Granolas",
+      "/tradicional?Tradicional",
+      "/low-carb?Low Carb",
+      "/premium?Premium",
+      "/organica?Orgânica"
+    ],
     "random": 0
   },
   "search_input": true
