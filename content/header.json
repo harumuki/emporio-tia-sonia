@@ -8,6 +8,10 @@
       {
         "title": "Fale Conosco",
         "link": "pages/contato"
+      },
+      {
+        "title": "Rastreamento",
+        "link": "pages/rastreamento-pedidos"
       }
     ],
     "phone_wpp": true,
