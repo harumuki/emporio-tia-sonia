@@ -16,13 +16,7 @@
       <p><b>Ops! Essa página mudou...</b></p>
       Veja nas opções abaixo os produtos mais buscados. Ou faça uma busca para encontrar o que deseja.
       <hr>
-      <%
-            const { body } = await _.resolveRoute()
-            _.breadcrumbs = [{
-              name: _.ecomUtils.name(body),
-              link: `/${body.slug}`
-            }]
-            %> <%- await include('@/view') %>
+      <% const { body } = await _.resolveRoute() _.breadcrumbs = [{name: _.ecomUtils.name(body), link: `/${body.slug}`}]%><%- await include('@/view') %>
     </div>
 
     <%- await include('@/layout/footer') %>
