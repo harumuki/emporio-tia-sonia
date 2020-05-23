@@ -1,4 +1,5 @@
 {
+  "store_id": 1024,
   "domain": "www.emporiotiasonia.com.br",
   "currency_symbol": "R$",
   "primary_color": "#222831",
@@ -16,7 +17,6 @@
   "country_code": "BR",
   "secondary_color": "#393e46",
   "icon": "/img/uploads/minilogo.png",
-  "store_id": 1024,
   "description": "Para um mundo com fome de viver, somos alimento  pro corpo e pra alma. Comida que realmente nutre, alimenta, revigora, acalenta, com sabor de saúde e carinho que faz a gente se sentir em casa, onde a gente estiver.",
   "large_icon": "/img/uploads/logo.png"
 }
