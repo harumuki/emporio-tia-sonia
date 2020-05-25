@@ -5,7 +5,7 @@
   "enableCheckout": true,
   "options": {
     "tawktoPropertyId": "5b883b67f31d0f771d844d96",
-    "tawktoChatWidget": ""
+    "tawktoChatWidget": "default"
   },
   "bodyAppend": "src/append/body"
 }
