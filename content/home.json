@@ -20,10 +20,14 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/granolas-home.webp"
+          "img": "/img/uploads/granolas-home.webp",
+          "link": "https://www.emporiotiasonia.com.br/granolas",
+          "alt": "Granolas"
         },
         {
-          "img": "/img/uploads/snacks-home.webp"
+          "img": "/img/uploads/snacks-home.webp",
+          "link": "https://www.emporiotiasonia.com.br/snacks",
+          "alt": "Snacks"
         }
       ]
     },
