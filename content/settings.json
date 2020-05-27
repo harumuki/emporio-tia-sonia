@@ -1,5 +1,4 @@
 {
-  "store_id": 1024,
   "domain": "www.emporiotiasonia.com.br",
   "currency_symbol": "R$",
   "primary_color": "#222831",
@@ -17,6 +16,7 @@
   "country_code": "BR",
   "secondary_color": "#393e46",
   "icon": "/img/uploads/minilogo.png",
-  "description": "Para um mundo com fome de viver, somos alimento  pro corpo e pra alma. Comida que realmente nutre, alimenta, revigora, acalenta, com sabor de saúde e carinho que faz a gente se sentir em casa, onde a gente estiver.",
+  "store_id": 1024,
+  "description": "A Tia Sônia está sempre preocupada com a boa qualidade, ingredientes nutritivos e sabor agradável.\nTudo para produzir e levar até você refeições naturalmente deliciosas, repletas de energia nutritiva e muito amor.\nVamos energizar todos os momentos do seu dia!",
   "large_icon": "/img/uploads/logo.png"
 }
