@@ -56,14 +56,14 @@
       "title": "Os mais Pedidos 💙"
     },
     {
-      "type": "custom-html",
-      "html": "<h4>Quer receber receitas, dicas e promoções? Cadastre-se ;)</h4>\n  <!-- Estilos CSS personalizados para o formulário, se for usar seu estilo, pode apagar essa linha -->\n<link rel=\"stylesheet\" type=\"text/css\" href=\"https://novo.nitronews.com.br/assets/css/fomularios-html.css\">\n<form action=\"https://novo.nitronews.com.br/formularios/submit-form-HTML\" method=\"post\" target=\"_blank\" id=\"formIntegracaoHTML\">\n\t<label for=\"email\">E-mail: </label>\n \t<input type=\"email\" name=\"email%%E-mail\" id=\"email\" required>\n\t<label for=\"nome\">Nome: </label>\n \t<input type=\"text\" name=\"nome%%Nome\" id=\"nome\">\n\t<!-- Não apagar as linhas abaixo -->\n\t<input type=\"hidden\" name=\"chave[]\" value=\"Lj75\">\n\t<input type=\"hidden\" name=\"cliente\" value=\"Tia Sônia\">\n\t<input type=\"hidden\" name=\"urlretorno\" value=\"\">\n\t<input type=\"submit\" name=\"enviar\" value=\"inscreva-se\">\n</form>"
-    },
-    {
       "type": "responsive-banner",
       "img": "/img/uploads/tstorytiasonia.jpg",
       "alt": "História de Tia Sônia",
       "link": "http://www.tiasonia.com.br/pt-br/sobre"
+    },
+    {
+      "type": "custom-html",
+      "html": "<h4>Quer receber receitas, dicas e promoções? Cadastre-se ;)</h4>\n  <!-- Estilos CSS personalizados para o formulário, se for usar seu estilo, pode apagar essa linha -->\n<link rel=\"stylesheet\" type=\"text/css\" href=\"https://novo.nitronews.com.br/assets/css/fomularios-html.css\">\n<form action=\"https://novo.nitronews.com.br/formularios/submit-form-HTML\" method=\"post\" target=\"_blank\" id=\"formIntegracaoHTML\">\n\t<label for=\"email\">E-mail: </label>\n \t<input type=\"email\" name=\"email%%E-mail\" id=\"email\" required>\n\t<label for=\"nome\">Nome: </label>\n \t<input type=\"text\" name=\"nome%%Nome\" id=\"nome\">\n\t<!-- Não apagar as linhas abaixo -->\n\t<input type=\"hidden\" name=\"chave[]\" value=\"Lj75\">\n\t<input type=\"hidden\" name=\"cliente\" value=\"Tia Sônia\">\n\t<input type=\"hidden\" name=\"urlretorno\" value=\"\">\n\t<input type=\"submit\" name=\"enviar\" value=\"eu-quero\">\n</form>"
     }
   ]
 }
