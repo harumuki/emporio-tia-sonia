@@ -153,13 +153,13 @@ body {
   color: #666 !important;
 }
 // FRETE CALCULO
-.shipping-calculator__services::after {
+/*.shipping-calculator__services::after {
   content: 'FRETE GRÁTIS em compras a partir de R$200 \A Frete Econômico (R$ 10) em compras acima de R$ 100.';
-  white-space: pre; /* or pre-wrap */
+  white-space: pre;
   font-weight: 500;
   font-size: 12px;
   color: #333;
-}
+}*/
 //botao comprar
 .btn-primary {
     background-color: rgb(40, 167, 69);
