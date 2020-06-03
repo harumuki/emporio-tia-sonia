@@ -283,7 +283,7 @@ h1 {
   display:none;
 }
 .discount-applier .alert::after{
- content: '*Cupons não são cumulativos com outros descontos!'
+ content: '*O valor do desconto não é cumulativo com outras promoções ou cupom de desconto'
 }
 //remover status pedido aberto
 .order-info__status--open {
