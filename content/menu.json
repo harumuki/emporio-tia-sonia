@@ -1,5 +1,6 @@
 {
   "sort_categories": [
+    "ofertas-especiais",
     "kits-tia-sonia",
     "granola-tia-sonia",
     "snacks",
@@ -8,8 +9,7 @@
     "funcionais",
     "pastas-tia-sonia",
     "barras",
-    "linha-gourmet",
-    "ofertas-especiais"
+    "linha-gourmet"
   ],
   "phone_wpp": true,
   "socials": true
