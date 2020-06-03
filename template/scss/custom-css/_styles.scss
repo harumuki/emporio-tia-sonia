@@ -283,7 +283,7 @@ h1 {
   display:none;
 }
 .discount-applier .alert::after{
- //content: 'Cupons não podem ser usados em itens em oferta!'
+ content: '*Cupons não são cumulativos com outros descontos!'
 }
 //remover status pedido aberto
 .order-info__status--open {
