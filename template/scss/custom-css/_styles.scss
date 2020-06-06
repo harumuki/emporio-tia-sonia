@@ -1,5 +1,12 @@
 // Add your custom CSS here.
 
+//contudown
+.top-bar__countdown {
+  font-size: 0.8rem;
+  font-weight:500;
+  background:#C0004E !important;
+}
+
 //remover parcelas
 .payment__badges {
     display: none;
@@ -17,13 +24,6 @@
     color: #fffcfc;
     background: #c0004e;
     padding: 5px;
-}
-
-//contudown
-.top-bar__countdown {
-  font-size: 0.8rem;
-  font-weight:500;
-  //background:#436E61 !important;
 }
 
 //vitrine inteligente
