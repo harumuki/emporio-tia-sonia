@@ -17,6 +17,19 @@
       ]
     },
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/2-banner-frete-gratis-1280x600px_1_.webp",
+          "alt": "Frete-Economico"
+        },
+        {
+          "img": "/img/uploads/13-banner-vtc-1280x600px_2_.webp",
+          "alt": "Vitoria-da-Conquista"
+        }
+      ]
+    },
+    {
       "type": "collection-shelf",
       "shuffle": true,
       "collection_id": "5ed92bce14ff772fde777274",
@@ -34,19 +47,6 @@
           "img": "/img/uploads/snacks-home.webp",
           "link": "https://www.emporiotiasonia.com.br/snacks",
           "alt": "Snacks"
-        }
-      ]
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/2-banner-frete-gratis-1280x600px_1_.webp",
-          "alt": "Frete-Economico"
-        },
-        {
-          "img": "/img/uploads/13-banner-vtc-1280x600px_2_.webp",
-          "alt": "Vitoria-da-Conquista"
         }
       ]
     },
