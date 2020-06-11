@@ -1,7 +1,7 @@
 {
   "marketing_stripe": {
-    "text": "DEU MATCH: VOCÊ + TIA SÔNIA 💛 APROVEITE!",
-    "link": ""
+    "text": "DEU MATCH 💛 VOCÊ + TIA SÔNIA 💙 APROVEITE!",
+    "link": "https://www.emporiotiasonia.com.br/app/#/cart/5edbaedb14ff772fde7824ab"
   },
   "contacts_stripe": {
     "pages": [
@@ -25,7 +25,8 @@
       "/premium?Premium",
       "/ofertas-especiais?Ofertas Especiais"
     ],
-    "random": 0
+    "random": 0,
+    "full_width": true
   },
   "search_input": true
 }
