@@ -19,13 +19,13 @@
   },
   "categories_list": {
     "featured": [
-      "/granola-tia-sonia?Granolas",
-      "/tradicional?Tradicional",
+      "/organico?Orgânico",
+      "/vegano?Vegano",
+      "/light?Light",
+      "/sem-gluten?Sem Glúten",
+      "/integral?Integral",
       "/low-carb?Low Carb",
-      "/premium?Premium",
-      "/coquinho-crocante?Coquinho Crocante",
-      "/snacks?Snacks",
-      "/mais-vendidos?Mais vendidos"
+      "/zero-acucar?Zero Açúcar"
     ],
     "random": 0,
     "full_width": true
