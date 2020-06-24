@@ -19,13 +19,13 @@
   },
   "categories_list": {
     "featured": [
-      "/organico?Orgânico",
-      "/vegano?Vegano",
-      "/light?Light",
-      "/sem-gluten?Sem glúten",
-      "/integral?Integral",
-      "/low-carb?Low Carb",
-      "/zero-acucar?Zero Açúcar"
+      "/organico-col?Orgânico",
+      "/integral-col?Integral",
+      "/vegano-col?Vegano",
+      "/zero-acucar-col?Zero Açúcar",
+      "/fonte-de-proteinas-col?Fonte de Proteínas",
+      "/snacks-tia-sonia-col?Snacks",
+      "/granolas-col?Granolas Tia Sônia"
     ],
     "random": 0,
     "full_width": true
