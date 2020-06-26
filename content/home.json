@@ -29,6 +29,11 @@
         {
           "img": "/img/uploads/13-banner-vtc-1280x600px_2_.webp",
           "alt": "Vitoria-da-Conquista"
+        },
+        {
+          "img": "/img/uploads/granolas-home.webp",
+          "alt": "Granolas",
+          "link": "https://www.emporiotiasonia.com.br/granola-tia-sonia"
         }
       ]
     },
@@ -42,11 +47,6 @@
     {
       "type": "banners-grid",
       "banners": [
-        {
-          "img": "/img/uploads/granolas-home.webp",
-          "link": "https://www.emporiotiasonia.com.br/granola-tia-sonia",
-          "alt": "Granolas"
-        },
         {
           "img": "/img/uploads/snacks-home.webp",
           "link": "https://www.emporiotiasonia.com.br/snacks",
