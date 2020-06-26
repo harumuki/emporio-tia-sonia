@@ -27,10 +27,6 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/2-banner-frete-gratis-1280x600px_1_.webp",
-          "alt": "Frete-Economico"
-        },
-        {
           "img": "/img/uploads/13-banner-vtc-1280x600px_2_.webp",
           "alt": "Vitoria-da-Conquista"
         }
