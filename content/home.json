@@ -49,6 +49,20 @@
     {
       "type": "custom-html",
       "html": "<div class=\"ml-form-embed\"\n  data-account=\"1184030:r4h1t6y8d5\"\n  data-form=\"1703292:y6j4v6\">\n</div>"
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "slides": [
+        {
+          "start": "2020-07-13T13:02:44.403Z",
+          "end": "2020-07-20T03:02:00.000Z",
+          "img": "/img/uploads/organica1920.jpg",
+          "link": "https://www.emporiotiasonia.com.br/granolas-col",
+          "alt": "Frete Gratis",
+          "mobile_img": "/img/uploads/organica1080.jpg"
+        }
+      ]
     }
   ]
 }
