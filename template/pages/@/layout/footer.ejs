@@ -26,6 +26,11 @@ const networksWithColors = [
           <% } %>
 
           <ul class="list-unstyled">
+          <li>
+            <h2 class="footer__title footer__store">
+            <%= footer.description.title || _.settings.name %>
+            </h2>
+            </li>
             <% if (footer.contacts.phone_wpp) { %>
               <% if (contacts.whatsapp) { %>
                 <li>
