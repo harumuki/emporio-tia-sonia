@@ -3,6 +3,20 @@
   "meta_description": "Alimentos Tia Sônia. Para um mundo com fome de viver, somos alimento pro corpo e pra alma. Faz bem mais feliz! ",
   "sections": [
     {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "slides": [
+        {
+          "start": "2020-07-20T11:36:36.590Z",
+          "end": "2020-07-20T11:36:36.617Z",
+          "img": "/img/uploads/03-1920x500-da-min.jpg",
+          "mobile_img": "/img/uploads/02-1080x1080-da-min.jpg",
+          "link": "https://www.emporiotiasonia.com.br/kits-tia-sonias",
+          "alt": "FRETE-GRATIS"
+        }
+      ]
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "collection_id": "5d09311d24607a6a42d714ca",
