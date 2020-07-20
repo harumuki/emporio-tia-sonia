@@ -3,20 +3,6 @@
   "meta_description": "Alimentos Tia Sônia. Para um mundo com fome de viver, somos alimento pro corpo e pra alma. Faz bem mais feliz! ",
   "sections": [
     {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "slides": [
-        {
-          "start": "2020-07-13T13:02:44.403Z",
-          "end": "2020-07-20T03:02:00.000Z",
-          "img": "/img/uploads/organica1920.jpg",
-          "link": "https://www.emporiotiasonia.com.br/granolas-col",
-          "alt": "Frete Gratis",
-          "mobile_img": "/img/uploads/organica1080.jpg"
-        }
-      ]
-    },
-    {
       "type": "collection-shelf",
       "shuffle": false,
       "collection_id": "5d09311d24607a6a42d714ca",
