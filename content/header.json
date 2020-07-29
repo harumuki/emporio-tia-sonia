@@ -1,7 +1,9 @@
 {
   "marketing_stripe": {
     "text": "💛 ÚLTIMOS DIAS | FRETE GRÁTIS ACIMA R$129 ",
-    "link": "https://www.emporiotiasonia.com.br/"
+    "link": "https://www.emporiotiasonia.com.br/",
+    "background": "#0a59a8",
+    "color": "#ffffff"
   },
   "contacts_stripe": {
     "pages": [
