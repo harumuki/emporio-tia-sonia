@@ -313,3 +313,7 @@ h1 {
 .product__buy button {
     padding: .5rem 4rem;
 }
+// esconder pessoa jurídica
+#account-form-type-j, #account-form-type-j + label {
+display: none !important;
+} 
