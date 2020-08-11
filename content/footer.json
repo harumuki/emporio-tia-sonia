@@ -6,7 +6,12 @@
   "links_1": {
     "list_pages": true,
     "title": "Informações",
-    "list": []
+    "list": [
+      {
+        "text": "Acompanhar Pedido",
+        "url": "https://www.datafrete.com.br/tiasonia/tracking-page"
+      }
+    ]
   },
   "links_2": {
     "list_categories": false,
