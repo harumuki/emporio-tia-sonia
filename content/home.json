@@ -55,9 +55,7 @@
           "alt": "Vitoria-da-Conquista"
         },
         {
-          "img": "/img/uploads/granolas-home.webp",
-          "alt": "Granolas",
-          "link": "https://www.emporiotiasonia.com.br/granola-tia-sonia"
+          "img": "/img/uploads/ssa.jpg"
         }
       ]
     },
@@ -75,6 +73,11 @@
           "img": "/img/uploads/snacks-home.webp",
           "link": "https://www.emporiotiasonia.com.br/snacks",
           "alt": "Snacks"
+        },
+        {
+          "img": "/img/uploads/granolas-home.webp",
+          "link": "https://www.emporiotiasonia.com.br/granola-tia-sonia",
+          "alt": "Granolas"
         }
       ]
     },
