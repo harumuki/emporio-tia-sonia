@@ -4,12 +4,56 @@
     "text": ""
   },
   "links_1": {
-    "list_pages": true,
+    "list_pages": false,
     "title": "Informações",
     "list": [
       {
         "text": "Acompanhar Pedido",
-        "url": "https://www.datafrete.com.br/tiasonia/tracking-page"
+        "url": "/acompanhar-pedido"
+      },
+      {
+        "text": "Contato",
+        "url": "/pages/contato"
+      },
+      {
+        "text": "Condições de entrega",
+        "url": "/pages/entrega"
+      },
+      {
+        "text": "Dúvidas frequentes",
+        "url": "/pages/faq"
+      },
+      {
+        "text": "Onde encontrar",
+        "url": "/pages/onde-encontrar"
+      },
+      {
+        "text": "Formas de pagamento",
+        "url": "/pages/pagamentos"
+      },
+      {
+        "text": "Política de privacidade",
+        "url": "/pages/privacidade"
+      },
+      {
+        "text": "Rastreamento Pedidos",
+        "url": "/pages/rastreamento-pedidos"
+      },
+      {
+        "text": "Seja nosso Parceiro",
+        "url": "/pages/seja-nosso-parceiro"
+      },
+      {
+        "text": "Sobre nós",
+        "url": "/pages/sobre-nos"
+      },
+      {
+        "text": "Termos de serviço",
+        "url": "/pages/termos"
+      },
+      {
+        "text": "Trocas e devoluções",
+        "url": "/pages/trocas"
       }
     ]
   },
