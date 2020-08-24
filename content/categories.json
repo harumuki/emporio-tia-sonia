@@ -6,13 +6,13 @@
     },
     {
       "type": "page-title"
-    },
+    },    
     {
-      "type": "document-banner",
+      "type": "category-retail",
       "enabled": true
     },
     {
-      "type": "category-retail",
+      "type": "document-banner",
       "enabled": true
     },
     {
