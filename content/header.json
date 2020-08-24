@@ -8,10 +8,6 @@
   "contacts_stripe": {
     "pages": [
       {
-        "title": "Rastreamento",
-        "link": "https://www.emporiotiasonia.com.br/pages/rastreamento-pedidos"
-      },
-      {
         "title": "Fale Conosco",
         "link": "pages/contato"
       }
