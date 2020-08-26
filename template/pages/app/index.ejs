@@ -51,12 +51,12 @@ const logo = _.settings.logo
     </div>
   </header>
 
-  <main id="spa">
-    <div id="containerAcompanhar" class="container" style="padding: 1rem; margin-top: 1rem; border: 1px solid #ccc">
-      <a href="/acompanhar-pedido" style="display: flex;justify-content: center;">Acompanhar pedido</a>
-    </div>
+  <main id="spa">    
     <div id="storefront-app">
       <%- await include('@/sections/inc/loading') %>
+    </div>
+    <div id="containerAcompanhar" class="container" style="padding: 1rem; margin-bottom: 1rem; border: 1px solid #ccc">
+      <a href="/acompanhar-pedido" target="blank" style="display: flex;justify-content: center;">Acompanhar pedido</a>
     </div>
   </main>
 
