@@ -7,6 +7,14 @@
       "autoplay": 9000,
       "slides": [
         {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/03-1920x500-dia-docliente-min.jpg",
+          "mobile_img": "/img/uploads/02-1080x1080-dia-do-cliente-min.jpg",
+          "link": "https://www.emporiotiasonia.com.br/kits-tia-sonias",
+          "alt": "Cliente+Feliz"
+        },
+        {
           "start": "2020-08-17T13:58:09.741Z",
           "end": "",
           "img": "/img/uploads/banner_ecommerce_sou-min.jpg",
