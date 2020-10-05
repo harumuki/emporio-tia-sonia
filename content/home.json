@@ -7,6 +7,14 @@
       "autoplay": 9000,
       "slides": [
         {
+          "start": "2020-08-13T15:18:58.436Z",
+          "end": "2020-10-12T02:56:48.031Z",
+          "img": "/img/uploads/03-1920x500px-nordeste-min.jpg",
+          "link": "https://www.emporiotiasonia.com.br/search",
+          "alt": "nordeste",
+          "mobile_img": "/img/uploads/02-1080x1080px-nordeste-min.jpg"
+        },
+        {
           "start": "2020-10-01T08:46:42.223Z",
           "end": "",
           "img": "/img/uploads/banner_ecommerce_sou-min.jpg",
@@ -29,14 +37,6 @@
           "mobile_img": "/img/uploads/caju-min.jpg",
           "link": "https://www.emporiotiasonia.com.br/castanha-de-caju",
           "alt": "Kit-Caju"
-        },
-        {
-          "start": "2020-08-13T15:18:58.436Z",
-          "end": "",
-          "img": "/img/uploads/banner_ecommerce_achocolatado-min.jpg",
-          "link": "https://www.emporiotiasonia.com.br/search?term=bebida",
-          "alt": "Achocolatado ",
-          "mobile_img": "/img/uploads/post-achocolatado-1-min.jpg"
         }
       ]
     },
