@@ -29,6 +29,14 @@
           "mobile_img": "/img/uploads/caju-min.jpg",
           "link": "https://www.emporiotiasonia.com.br/castanha-de-caju",
           "alt": "Kit-Caju"
+        },
+        {
+          "start": "2020-10-13T11:58:32.297Z",
+          "end": "",
+          "img": "/img/uploads/03-1920x500-granola_-min.jpg",
+          "mobile_img": "/img/uploads/02-1080x1080-granola-min.jpg",
+          "alt": "Granola-sem-uva",
+          "link": "https://www.emporiotiasonia.com.br/granola-tia-sonia-tradicional-1kg-sem-uva-passa"
         }
       ]
     },
