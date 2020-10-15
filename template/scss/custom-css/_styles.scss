@@ -336,3 +336,12 @@ h1 {
 #account-form-type-j, #account-form-type-j + label {
 display: none !important;
 } 
+
+//bt comprar busca
+.product-card__buy .btn-primary {
+    line-height: 0;
+    font-size: .8rem;
+    background-color: #162567;
+    border-color: #162567;
+    margin: 0px 40px 0px 0px;
+}
