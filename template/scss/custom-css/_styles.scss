@@ -1,5 +1,14 @@
 // Add your custom CSS here.
 
+//contudown
+.top-bar__countdown {
+  font-size: 0.8rem;
+  font-weight:500;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  background:#333 !important;
+}
+
 //size h1
 h1 {
     font-size: 1.5rem !important;
@@ -10,13 +19,11 @@ html body .ts-shelf-container {
     display: none;
 }
 
-//contudown
-.top-bar__countdown {
-  font-size: 0.8rem;
-  font-weight:500;
-  padding-top: 5px;
-  padding-bottom: 5px;
-  background:#0078d7 !important;
+//texto menu
+.header__row .header__nav a {
+    padding-right: 1rem;
+    font-weight: 400;
+    color: #333;
 }
 
 // FRETE CALCULO
