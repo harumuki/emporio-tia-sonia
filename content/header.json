@@ -8,11 +8,11 @@
   "contacts_stripe": {
     "pages": [
       {
-        "title": "Contato",
+        "title": "CONTATOS",
         "link": "https://www.emporiotiasonia.com.br/pages/contato"
       },
       {
-        "title": "Acompanhar Pedido",
+        "title": "ACOMPANHAR PEDIDO",
         "link": "https://www.emporiotiasonia.com.br/acompanhar-pedido"
       }
     ],
