@@ -8,16 +8,16 @@
     "title": "Informações",
     "list": [
       {
+        "text": "Contato",
+        "url": "/pages/contato"
+      },
+      {
         "text": "Acompanhar Pedido",
         "url": "/acompanhar-pedido"
       },
       {
         "text": "Cadastro Nutricionista",
         "url": "https://www.emporiotiasonia.com.br/pages/cadastro-nutricionista"
-      },
-      {
-        "text": "Contato",
-        "url": "/pages/contato"
       },
       {
         "text": "Condições de entrega",
