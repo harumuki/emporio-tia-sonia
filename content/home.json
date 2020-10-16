@@ -45,6 +45,14 @@
           "mobile_img": "/img/uploads/02-1080x1080-granola-min.jpg",
           "alt": "Granola-sem-uva",
           "link": "https://www.emporiotiasonia.com.br/granola-tia-sonia-tradicional-1kg-sem-uva-passa"
+        },
+        {
+          "start": "2020-10-16T21:09:17.907Z",
+          "end": "",
+          "img": "/img/uploads/banner-ecommerce-cookies-03-min.jpg",
+          "mobile_img": "/img/uploads/card-cookies-20g-min.jpg",
+          "link": "https://www.emporiotiasonia.com.br/cookies",
+          "alt": "cookies"
         }
       ]
     },
