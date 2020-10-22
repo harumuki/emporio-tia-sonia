@@ -40,14 +40,6 @@
         "url": "/pages/privacidade"
       },
       {
-        "text": "Seja nosso Parceiro",
-        "url": "/pages/seja-nosso-parceiro"
-      },
-      {
-        "text": "Sobre nós",
-        "url": "/pages/sobre-nos"
-      },
-      {
         "text": "Termos de serviço",
         "url": "/pages/termos"
       },
@@ -58,6 +50,10 @@
       {
         "text": "Cadastro para Revenda",
         "url": "https://docs.google.com/forms/d/e/1FAIpQLSd0D_JwA36qSMeSArUjFZMWvjBpV3FuKQM5gpIQJwcNK8D9ig/viewform"
+      },
+      {
+        "text": "Sobre nós",
+        "url": "/pages/sobre-nos"
       }
     ]
   },
