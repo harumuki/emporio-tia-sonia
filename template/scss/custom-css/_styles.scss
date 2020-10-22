@@ -6,7 +6,7 @@
   font-weight:500;
   padding-top: 5px;
   padding-bottom: 5px;
-  background:#333 !important;
+  background:#2286c6 !important;
 }
 
 //size h1
@@ -28,7 +28,7 @@ html body .ts-shelf-container {
 
 // FRETE CALCULO
 .shipping-calculator__services::after {
-  content: 'FRETE 9,99 em compras a partir de 100 \A';
+  //content: 'FRETE 9,99 em compras a partir de 100 \A';
   white-space: pre;
   font-weight: 500;
   font-size: 12px;
