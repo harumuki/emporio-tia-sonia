@@ -127,6 +127,10 @@
     {
       "src": "/img/uploads/usda-120-80.png",
       "alt": "USDA Organic"
+    },
+    {
+      "src": "/img/uploads/seloablec-01.png",
+      "alt": "ablec"
     }
   ],
   "payment_methods": {
