@@ -9,6 +9,12 @@
   background:#2286c6 !important;
 }
 
+//selos rodape
+@media (min-width: 768px)
+  .stamps {
+    flex-wrap: unset; 
+}
+
 //selo trusvox rodape
 trustvox-certificate__fixed trustvox-certificate__fixed-tiny{
     position: absolute;
