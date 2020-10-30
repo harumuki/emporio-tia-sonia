@@ -1,4 +1,14 @@
 {
   "phone_wpp": true,
-  "socials": true
+  "socials": true,
+  "sort_categories": [
+    "kits-tia-sonia",
+    "granola-tia-sonia",
+    "snacks",
+    "integrais",
+    "cookies",
+    "funcionais",
+    "pastas-tia-sonia",
+    "barras"
+  ]
 }
