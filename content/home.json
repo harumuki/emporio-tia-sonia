@@ -66,9 +66,8 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "collection_id": "5dfb92855cdf932a9836d9ac",
-      "sort": "sales",
-      "title": "Faz bem + Feliz!"
+      "collection_id": "5fa09652b2161709fa47b105",
+      "sort": "sales"
     },
     {
       "type": "banners-grid",
@@ -106,14 +105,15 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "collection_id": "5fa09652b2161709fa47b105",
+      "collection_id": "5f9c2780b2161709fa46a603",
       "sort": "sales"
     },
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "collection_id": "5f9c2780b2161709fa46a603",
-      "sort": "sales"
+      "collection_id": "5dfb92855cdf932a9836d9ac",
+      "sort": "sales",
+      "title": "Faz bem + Feliz!"
     },
     {
       "type": "custom-html",
