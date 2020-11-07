@@ -45,6 +45,14 @@
           "mobile_img": "/img/uploads/caju-min.jpg",
           "link": "https://www.emporiotiasonia.com.br/castanha-de-caju",
           "alt": "Kit-Caju"
+        },
+        {
+          "start": "2020-11-07T14:19:18.626Z",
+          "end": "",
+          "img": "/img/uploads/03_1920x500_bf_banner-min.jpg",
+          "mobile_img": "/img/uploads/02_1080x1080_bf_feed-min.jpg",
+          "link": "https://www.emporiotiasonia.com.br/search?term=",
+          "alt": "TiaSonia"
         }
       ]
     },
@@ -58,8 +66,9 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "collection_id": "5f9c2780b2161709fa46a603",
-      "sort": "sales"
+      "collection_id": "5dfb92855cdf932a9836d9ac",
+      "sort": "sales",
+      "title": "Faz bem + Feliz!"
     },
     {
       "type": "banners-grid",
@@ -74,11 +83,10 @@
       ]
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "collection_id": "5dfb92855cdf932a9836d9ac",
-      "sort": "sales",
-      "title": "Faz bem + Feliz!"
+      "type": "responsive-banner",
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSd0D_JwA36qSMeSArUjFZMWvjBpV3FuKQM5gpIQJwcNK8D9ig/viewform",
+      "alt": "parceiros",
+      "img": "/img/uploads/01-1920x500-parceiro-min.jpg"
     },
     {
       "type": "banners-grid",
@@ -102,10 +110,10 @@
       "sort": "sales"
     },
     {
-      "type": "responsive-banner",
-      "link": "https://docs.google.com/forms/d/e/1FAIpQLSd0D_JwA36qSMeSArUjFZMWvjBpV3FuKQM5gpIQJwcNK8D9ig/viewform",
-      "alt": "parceiros",
-      "img": "/img/uploads/01-1920x500-parceiro-min.jpg"
+      "type": "collection-shelf",
+      "shuffle": false,
+      "collection_id": "5f9c2780b2161709fa46a603",
+      "sort": "sales"
     },
     {
       "type": "custom-html",
