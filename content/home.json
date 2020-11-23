@@ -7,12 +7,12 @@
       "autoplay": 0,
       "slides": [
         {
-          "start": "2020-11-07T14:19:18.626Z",
+          "start": "2020-10-13T11:58:32.297Z",
           "end": "",
-          "img": "/img/uploads/09-1920x500-bf-banner-min.jpg",
-          "mobile_img": "/img/uploads/08-1080x1080-bf-feed-min.jpg",
-          "link": "https://www.emporiotiasonia.com.br/search?term=",
-          "alt": "TiaSonia"
+          "img": "/img/uploads/03-1920x500-granola_-min.jpg",
+          "mobile_img": "/img/uploads/02-1080x1080-granola-min.jpg",
+          "alt": "Granola-sem-uva",
+          "link": "https://www.emporiotiasonia.com.br/granola-tia-sonia-tradicional-1kg-sem-uva-passa"
         },
         {
           "start": "2020-10-16T21:09:17.907Z",
@@ -29,14 +29,6 @@
           "mobile_img": "/img/uploads/banner-pipoca-1080x1080px-min.jpg",
           "link": "https://www.emporiotiasonia.com.br/pipocas-gourmet",
           "alt": "Pipocas"
-        },
-        {
-          "start": "2020-10-13T11:58:32.297Z",
-          "end": "",
-          "img": "/img/uploads/03-1920x500-granola_-min.jpg",
-          "mobile_img": "/img/uploads/02-1080x1080-granola-min.jpg",
-          "alt": "Granola-sem-uva",
-          "link": "https://www.emporiotiasonia.com.br/granola-tia-sonia-tradicional-1kg-sem-uva-passa"
         },
         {
           "start": "2020-10-01T08:46:42.223Z",
