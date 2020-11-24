@@ -17,6 +17,12 @@
 .top-bar, .top-bar__nav {
     background: #100f10 !important;
 }
+.header__buttons .btn {
+    color: #cecece;
+}
+.header__toggler-icon {
+    color: #cecece;
+ }
 
 //botao cancelar
 .order-info__toggle.btn-danger {display:none;}
