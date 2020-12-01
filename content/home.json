@@ -15,6 +15,14 @@
           "mobile_img": "/img/uploads/naturais-mob.jpg"
         },
         {
+          "start": "2020-07-27T12:27:54.217Z",
+          "end": "",
+          "img": "/img/uploads/caju_-min.jpg",
+          "mobile_img": "/img/uploads/caju-min.jpg",
+          "link": "https://www.emporiotiasonia.com.br/castanha-de-caju",
+          "alt": "Kit-Caju"
+        },
+        {
           "start": "2020-10-16T21:09:17.907Z",
           "end": "",
           "img": "/img/uploads/banner-ecommerce-cookies-03-min.jpg",
@@ -29,22 +37,6 @@
           "mobile_img": "/img/uploads/banner-pipoca-1080x1080px-min.jpg",
           "link": "https://www.emporiotiasonia.com.br/pipocas-gourmet",
           "alt": "Pipocas"
-        },
-        {
-          "start": "2020-10-01T08:46:42.223Z",
-          "end": "",
-          "img": "/img/uploads/banner_ecommerce_sou-min.jpg",
-          "mobile_img": "/img/uploads/arte-bebidas_feed-min.jpg",
-          "alt": "Bebidas",
-          "link": "https://www.emporiotiasonia.com.br/search?term=sou+%2B"
-        },
-        {
-          "start": "2020-07-27T12:27:54.217Z",
-          "end": "",
-          "img": "/img/uploads/caju_-min.jpg",
-          "mobile_img": "/img/uploads/caju-min.jpg",
-          "link": "https://www.emporiotiasonia.com.br/castanha-de-caju",
-          "alt": "Kit-Caju"
         }
       ]
     },
