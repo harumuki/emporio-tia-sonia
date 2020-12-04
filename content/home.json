@@ -37,6 +37,14 @@
           "mobile_img": "/img/uploads/banner-pipoca-1080x1080px-min.jpg",
           "link": "https://www.emporiotiasonia.com.br/pipocas-gourmet",
           "alt": "Pipocas"
+        },
+        {
+          "start": "2020-12-04T12:54:58.017Z",
+          "end": "2021-01-01T12:54:58.050Z",
+          "img": "/img/uploads/03-1920x500px-fim-de-ano-min.jpg",
+          "link": "https://www.emporiotiasonia.com.br/search",
+          "alt": "TiaSonia",
+          "mobile_img": "/img/uploads/02-1080x1080-px-fim-de-ano-min.jpg"
         }
       ]
     },
