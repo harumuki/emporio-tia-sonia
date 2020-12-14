@@ -50,8 +50,8 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": false,
-      "collection_id": "5f43fb1bf023684cdbdc7aee",
+      "shuffle": true,
+      "collection_id": "5f43fb1bf023684cdbdc7aee:collections:Novidades da Tia Sônia:/novidades-da-tia-sonia",
       "title": "Novidades! 💙",
       "sort": "sales"
     },
